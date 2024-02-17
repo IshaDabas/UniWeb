@@ -4163,3 +4163,13 @@ dl.toggle.time-line:before {
 .footer-bottom .footer-social a:hover {
   background-color: beige;
 }
+
+/* Custom CSS */
+
+.icon-font-size-header {
+  font-size: 18px !important;
+}
+
+.icon-font-size-footer {
+  font-size: 20px !important;
+}
