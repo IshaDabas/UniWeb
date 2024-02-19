@@ -2159,8 +2159,8 @@ body.mobile-nav-active #mobile-nav-toggle {
   background-size: cover;
 }
 
-.popular-course-area .overlay-bckg {
-  background-color: rgba(30, 13, 4, 0.8);
+.popular-course-area .overlay-bg {
+  background-color: rgba(30, 13, 4, 0.8) !important;
 }
 
 .popular-course-area .owl-dots {
