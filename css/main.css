@@ -2153,6 +2153,16 @@ body.mobile-nav-active #mobile-nav-toggle {
     background: beige;
   }
 }
+
+.popular-course-area {
+  background: url(../img/popular1.jpg) right;
+  background-size: cover;
+}
+
+.popular-course-area .overlay-bckg {
+  background-color: rgba(30, 13, 4, 0.8);
+}
+
 .popular-course-area .owl-dots {
   text-align: center;
   bottom: 5px;
@@ -2571,6 +2581,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 .about-content h1 {
   font-size: 48px;
   font-weight: 600;
+  padding-top: 50px;
 }
 .about-content a {
   color: #fff;

@@ -30,7 +30,7 @@ const comp_header = `
 						<li><a href="index.html">Home</a></li>
 						<li><a href="about.html">About Us</a></li>
 						<li><a href="academics.html">Academics</a></li>
-						<li><a href="admsn.html">Admission 2024-25</a>
+						<li><a href="#">Admission 2024-25</a>
 							<ul>
 								<li><a href="UG.html">U.G Admission</a></li>
 								<li><a href="PG.html">P.G Admission</a></li>
